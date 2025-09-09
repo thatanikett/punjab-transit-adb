@@ -21,8 +21,7 @@ Currently only UI
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd punjab-transit-adb
+    git clone https://github.com/thatanikett/punjab-transit-adb.git
     ```
 
 2.  **Install dependencies:**
