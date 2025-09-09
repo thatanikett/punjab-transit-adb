@@ -1,4 +1,4 @@
-# Punjab Transit Advanced Dashboard
+# Punjab Transit Admin Dashboard
 
 This project is a web-based dashboard for monitoring the Punjab transit system. It provides real-time insights into the fleet, including vehicle locations, key performance indicators (KPIs), and system status.
 Currently only UI 
